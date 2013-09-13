@@ -18,6 +18,7 @@
 		6F6C230F17D66E9700C8060E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F6C230E17D66E9700C8060E /* Default-568h@2x.png */; };
 		6F6C231217D66E9700C8060E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F6C231017D66E9700C8060E /* MainStoryboard.storyboard */; };
 		6F6C231517D66E9700C8060E /* CCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F6C231417D66E9700C8060E /* CCViewController.m */; };
+		6F99EDB617E0AAD000C1A2B8 /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6F99EDB517E0AAD000C1A2B8 /* images-2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		6F6C231117D66E9700C8060E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		6F6C231317D66E9700C8060E /* CCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCViewController.h; sourceTree = "<group>"; };
 		6F6C231417D66E9700C8060E /* CCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CCViewController.m; sourceTree = "<group>"; };
+		6F99EDB517E0AAD000C1A2B8 /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		6F6C22FF17D66E9700C8060E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6F99EDB517E0AAD000C1A2B8 /* images-2.jpeg */,
 				6F6C230017D66E9700C8060E /* MyFirstApplication-Info.plist */,
 				6F6C230117D66E9700C8060E /* InfoPlist.strings */,
 				6F6C230417D66E9700C8060E /* main.m */,
@@ -164,6 +167,7 @@
 				6F6C230D17D66E9700C8060E /* Default@2x.png in Resources */,
 				6F6C230F17D66E9700C8060E /* Default-568h@2x.png in Resources */,
 				6F6C231217D66E9700C8060E /* MainStoryboard.storyboard in Resources */,
+				6F99EDB617E0AAD000C1A2B8 /* images-2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				6F6C231A17D66E9700C8060E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
